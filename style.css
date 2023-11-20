@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(135deg, #153677, #4e085f);
+}
+h1
+{
+    color: wheat;
+}
+h4
+{
+    color: wheat;
+}
+.a
+{
+    width: 20%;
+    align-items: center;
+}
+#todo-app
+{
+    color: aqua;
+}
+#weather-app
+{
+    color: aqua;
+}
+#portfolio-application
+{
+    color: aqua;
+}
+#Image-identification
+{
+    color: aqua;
+}
+#art-Generator
+{
+    color: aqua;
+}
+#TS
+{
+    color: aqua;
+}
+#QR
+{
+    color: aqua;
+}
